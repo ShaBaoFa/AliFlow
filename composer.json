@@ -58,7 +58,7 @@
     "hyperf/validation": "~3.1",
     "mineadmin/access": "3.0-RC",
     "mineadmin/app-store": "3.0-RC",
-    "mineadmin/auth-jwt": "3.0-RC",
+    "mineadmin/auth-jwt": "3.0",
     "mineadmin/casbin": "3.0-RC",
     "mineadmin/core": "3.0-RC",
     "mineadmin/jwt": "3.0-RC",
