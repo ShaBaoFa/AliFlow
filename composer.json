@@ -63,7 +63,7 @@
     "mineadmin/core": "3.0-RC",
     "mineadmin/jwt": "3.0-RC",
     "mineadmin/support": "3.0-RC",
-    "mineadmin/swagger": "3.0-RC",
+    "mineadmin/swagger": "3.0",
     "mineadmin/upload": "3.0-RC"
   },
   "require-dev": {
