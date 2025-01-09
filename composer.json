@@ -61,7 +61,7 @@
     "mineadmin/auth-jwt": "3.0-RC",
     "mineadmin/casbin": "3.0-RC",
     "mineadmin/core": "3.0-RC",
-    "mineadmin/jwt": "3.0-RC",
+    "mineadmin/jwt": "3.0.1",
     "mineadmin/support": "3.0-RC",
     "mineadmin/swagger": "3.0-RC",
     "mineadmin/upload": "3.0-RC"
